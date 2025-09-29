@@ -1,0 +1,13 @@
+langchain
+langchain-community
+python-dotenv
+ipykernel
+pypdf
+transformers
+#Embeddings
+sentence-transformers
+langchain-huggingface
+#VectorStore
+chromadb
+#Misc (Groq model)
+langchain_groq
